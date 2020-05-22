@@ -1,0 +1,11 @@
+{
+  "name": "express-task1",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": "git@github.com:SzymonJak/Express-task1.git",
+  "author": "Szymon Jakubiak <jakubiak.sz@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.17.1"
+  }
+}
